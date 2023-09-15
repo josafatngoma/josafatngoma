@@ -3,6 +3,11 @@
 I am a fullstack developer, with +5 years of experience in the professional industry, using various technologies for the development of systems, both in corporate, freelance and/or personal projects.
 I am dedicated, learning quickly and very easily.
 
+I started studying programming in 2014 in high school.
+Since then I have worked on several projects, few professionals at first and mostly for fun or study.
+
+In March 2019 I created a simple social network for fun, which opened the doors and allowed me to start working on systems in the real (professional) world a few months later.
+
 
 <!--
 **josafatngoma/josafatngoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
