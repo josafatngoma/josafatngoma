@@ -1,5 +1,9 @@
 ### Hello World 👋 I'm a Software Engineer
 
+I am a fullstack developer, with +5 years of experience in the professional industry, using various technologies for the development of systems, both in corporate, freelance and/or personal projects.
+I am dedicated, learning quickly and very easily.
+
+
 <!--
 **josafatngoma/josafatngoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
