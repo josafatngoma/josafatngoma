@@ -1,4 +1,4 @@
-## Hello World 👋 I'm Josafat, a Software Engineer
+## Hello World 👋 I'm Josafat, a Software Developer
 
 I am a fullstack developer, with +5 years of experience in the professional industry, using various technologies for the development of systems, both in corporate, freelance and/or personal projects.
 I am dedicated, learning quickly and very easily.
