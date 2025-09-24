@@ -11,7 +11,7 @@ Currently, I hold the AWS Cloud Practitioner certification and I am pursuing the
 ## Connect with me
 <div>
   <a href="https://www.josafat.kavenah.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2ea44f?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-2ea44f?style=for-the-badge&logo=user&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/josafatngoma/" target="_blank">
