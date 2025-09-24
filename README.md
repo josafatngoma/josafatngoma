@@ -10,7 +10,7 @@ Currently, I hold the AWS Cloud Practitioner certification and I am pursuing the
 
 ## Connect with me
 <div>
-<a href="https://www.instagram.com/josaphate.ngoma/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.josafat.kavenah.com" target="_blank">PORTFOLIO</a>  
 <a href="https://www.linkedin.com/in/josafatngoma/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
