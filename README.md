@@ -1,6 +1,6 @@
-## Hello World 👋 I'm Josafat, a Software Developer
+## Hello World 👋 I'm Josafat, a Software Engineer
 
-I am a Fullstack Software Developer with professional experience since 2019, currently focusing my career on Frontend Development. My background includes projects in both frontend and backend, but over the last years I have specialized in building modern, scalable, and user-friendly interfaces.
+I am a Fullstack Software Engineer with professional experience since 2019, currently focusing my career on Frontend Development. My background includes projects in both frontend and backend, but over the last years I have specialized in building modern, scalable, and user-friendly interfaces.
 
 I started studying programming in 2015 and worked on several freelance projects before joining the industry as a professional developer. Since then, I have contributed to the development of ERP systems, web applications, and custom solutions across different sectors.
 
