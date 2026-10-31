@@ -1,4 +1,4 @@
-# Hi there, I'm Josafat Ngoma! 👋
+# Hi there, I'm Josaphate Ngoma! 👋
 
 ### Fullstack Software Engineer | PHP & Laravel Specialist | AWS Enthusiast
 
